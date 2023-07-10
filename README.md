@@ -39,9 +39,6 @@ Then, if you want to try out your code in the console, run:
 $ bundle exec rake console
 ```
 
-Use the console to explore various Active Record methods that you'll need in
-order to pass the tests.
-
 ### Create
 
 - `Movie.create(title: title, release_date: release_date, director: director, lead: lead, in_theaters: in_theaters)``
